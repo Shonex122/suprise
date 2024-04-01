@@ -8,11 +8,7 @@
 }
 
 body {
-  /* background-color: #e5d9f2; */
-  background-image: url("/img/Wallpaper.webp");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-color: #1c2321;
 }
 
 #container {
