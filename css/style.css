@@ -21,15 +21,17 @@ body {
 }
 
 button {
-  padding: 10px 15px 10px 15px;
+  padding: 15px 20px;
   border-radius: 8px;
   background: #e5d9f2;
+  cursor: pointer;
   color: red;
   border: 1px solid red;
   margin-top: 20px;
   font-size: 18px;
   font-weight: 600;
   font-style: oblique;
+  cursor: pointer;
 }
 
 h1 {
@@ -39,4 +41,10 @@ h1 {
   font-size: 15px;
   line-height: 1;
   font-weight: 600;
+}
+
+h2 {
+  font-size: 24px;
+  color: pink;
+  text-align: center;
 }
